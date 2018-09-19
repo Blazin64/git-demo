@@ -1,3 +1,0 @@
-# Authors
-
-- Thomas Goodman
